@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFCtest</string>
+    <string name="set_transaction">发起交易</string>
+    <string name="check_health">出示健康通证</string>
+    <string name="receive_transaction">接受交易</string>
+    <string name="address">0x000000</string>
+</resources>
